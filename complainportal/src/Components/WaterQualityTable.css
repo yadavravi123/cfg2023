@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.ComplaintTable{
+    width:85%;
+    border:1px solid black;
+    font-weight:1rem;
+    background-color: #ade8f4;
+    border:2px solid black ;
+    margin-top: 0px;
+    margin: 0 auto;
+
+ 
+} 
+/* BasicTable.css */
+
+.table-container {
+    margin: 20px;
+  }
+  
+  .row {
+    background-color: #ade8f4;
+    color: #003566;
+    font-weight: bold;
+  }
+  
+  .row:hover {
+    background-color: #94d8ec;
+  }
+  
+  .row:nth-child(even) {
+    background-color: #d4f0f8;
+  }
+  
+  .select-container {
+    width: 120px;
+  }
+  
+  
+

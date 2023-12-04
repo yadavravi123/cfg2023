@@ -1,0 +1,52 @@
+*{
+    text-size-adjust: auto;
+    
+  }
+  
+  
+  .complaint-form {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+  }
+
+  .center-align-div{
+    font-family: "Lora", sans-serif;
+    text-align: center;
+
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input,
+  select {
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+   
+    margin-top: 30px;
+    background-color: #003566;
+    box-shadow: 0px 0px 2px 2px rgb(0,3,6);
+  
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

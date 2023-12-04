@@ -1,0 +1,29 @@
+
+.Navbar{
+    height: 100px;
+    background-color: #012a4a;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+}
+   
+.btn :hover{
+    color: lavender;
+    font-weight: 1.2rem;
+  }
+
+.Navbar_Items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.Navbar__Link{
+    margin-left: 20px;
+
+}
